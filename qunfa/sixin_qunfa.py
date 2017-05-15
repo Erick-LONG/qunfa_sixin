@@ -15,7 +15,7 @@ with open('uid.txt','r') as f:
 		'location':'msgdialog',
 		'module':'msgissue',
 		'style_id':'1',
-		'text':'''亲，马上到母亲节了，咱们可以根据节日配合您的活动专题做一个推广物料或者推广活动，比如：母亲节特惠，等这种物料或者活动，有需要我帮助的可以联系我''',
+		'text':'''xx''',
 		'uid':i.strip(),
 		'tovfids':'',
 		'fids':'',
